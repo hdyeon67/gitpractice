@@ -1,6 +1,8 @@
 ![version](https://img.shields.io/badge/version-0.1.0-blue)
 ![license](https://img.shields.io/badge/license-MIT-green)
-![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hdyeon67/gitpractice)
+![GitHub last commit](https://img.shields.io/github/last-commit/hdyeon67/gitpractice)
+
+
 
 # 📘 Git Learning Log
 
